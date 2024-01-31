@@ -8,7 +8,7 @@ body:
   attributes:
     value: |
       #### Thank you for contributing! 
-      - Before reporting a bug, please have a look at the [FAQ](https://github.com/opencv/opencv/wiki/FAQ) 
+      - Before reporting a bug, please have a look at the [FAQ](https://github.com/open-ssn/open-ssn/wiki/FAQ) 
       - make sure the issue has no duplicate and hasn't been already addressed by searching through [the existing and past issues](https://github.com/open-ssn/open-ssn/issues?page=1&q=is%3Aissue+sort%3Acreated-desc).
 
 - type: textarea
